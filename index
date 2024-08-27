@@ -12,7 +12,7 @@
 <body>
     <main>
         <div class="passo ativo" id="passo-0">
-            <img src="img/cenario-passo0.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Convento_de_S%C3%A3o_Francisco_-_Olinda_-_Pernambuco_-_Brasil.jpg"">
             <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
             <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
             <button class="btn-proximo" data-proximo="2">Pernambuco</button>
@@ -34,7 +34,7 @@
         </div>
 
         <div class="passo" id="passo-4">
-            <img src="img/cenario-passo4-voltar-casa.png" alt="imagem voltando para casa e desitindo da aventura">
+            <img src="https://th.bing.com/th/id/R.12340dbbe4f0a2972be462cb2bb85166?rik=qxJv8R8ZVBKZ4A&pid=ImgRaw&r=0">
             <p>Você decide que a aventura é grande demais e volta para casa, mas sempre se pergunta o que teria
                 encontrado.</p>
         </div>
@@ -74,7 +74,7 @@
         </div>
 
         <div class="passo" id="passo-11">
-            <img src="img/cenario-passo12-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">
+            <img src="https://th.bing.com/th/id/R.442569d76f242e4136d9853fc130f1fd?rik=jBEe16PL36%2byTg&pid=ImgRaw&r=0">
             <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar
                 este lugar</p>
         </div>
